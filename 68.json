@@ -203,7 +203,7 @@
         {
           "name": "redirect",
           "urls": [
-            "网上自己找"
+            "proxy://do=live&type=txt&ext=aHR0cDovLzgxLjcwLjc3LjU6NzgwMC90di8="
           ]
         }
       ]
